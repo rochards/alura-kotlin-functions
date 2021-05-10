@@ -10,3 +10,5 @@ Aprendendo o paradigma funcional em Kotlin
 - Retorno condicional em funções lambdas;
 - Funções anônimas;
 - Funções de escopo: ``let``, ``run``, ``with``, ``apply`` e ``also``.
+
+Este repositório apresenta os conteúdos aprendidos no curso de [Kotlin](https://cursos.alura.com.br/course/kotlin-recursos-do-paradigma-funcional) da [Alura](https://www.alura.com.br/).
